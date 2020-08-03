@@ -1,0 +1,37 @@
+.shadow {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.shadow1 {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.addUser {
+    margin-bottom: 5px;
+}
+
+.addUser a {
+    width: 150px;
+    transition: width 2s;
+}
+
+.addUser a:hover {
+    display: block;
+    width: 100%;
+}
+
+.bt button:hover {
+    transform: scale(1.05);
+}
+
+.bt a:hover {
+    transform: scale(1.05);
+}
+
+.elshad {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
